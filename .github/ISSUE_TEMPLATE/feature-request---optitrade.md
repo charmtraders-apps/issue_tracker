@@ -1,5 +1,5 @@
 ---
-name: Feature request - OptiLiveX
+name: Feature request - OptiTrade
 about: Suggest an idea for this project
 title: ''
 labels: ''
