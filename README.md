@@ -4,11 +4,11 @@ We appreciate your contributions to improving OptiLiveX and OptiSimX. This repos
 
 ## How to Report a Bug
 
-If you've encountered a bug in either OptiLiveX or OptiSimX, please follow these steps to report it:
+If you've encountered a bug in either OptiTrade or OptiBot, please follow these steps to report it:
 
 1. **Check Existing Issues**: Before creating a new issue, please check if it has already been reported. Avoid duplicating existing issues.
 
-2. **Select the Right Template**: Use the 'Bug report - OptiLiveX' template for bugs in OptiLiveX, and 'Bug report - OptiSimX' for OptiSimX.
+2. **Select the Right Template**: Use the 'Bug report - OptiTrade' template for bugs in OptiTrade, and 'Bug report - OptiBot' for OptiBot.
 
 3. **Provide Detailed Information**: Fill out all sections of the template. The more information you provide, the easier it is for us to understand and resolve the issue. Include:
    - A clear and descriptive title.
@@ -23,7 +23,7 @@ We're always looking to make our applications better. If you have an idea for a 
 
 1. **Check Existing Requests**: Ensure your idea hasn't already been suggested.
 
-2. **Use the Correct Template**: Choose 'Feature request - OptiLiveX' for OptiLiveX, and 'Feature request - OptiSimX' for OptiSimX.
+2. **Use the Correct Template**: Choose 'Feature request - OptiTrade' for OptiTrade, and 'Feature request - OptiBot' for OptiBot.
 
 3. **Describe Your Idea Clearly**: Provide a detailed explanation of your feature request, including:
    - A concise title for the feature.
@@ -42,4 +42,4 @@ We're always looking to make our applications better. If you have an idea for a 
 
 Our team regularly reviews submitted issues and feature requests. While we strive to address all submissions in a timely manner, response times may vary based on the current workload and the complexity of the reported issue or requested feature.
 
-Thank you for contributing to the improvement of OptiLiveX and OptiSimX!
+Thank you for contributing to the improvement of OptiTrade and OptiBot!
