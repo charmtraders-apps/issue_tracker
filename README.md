@@ -1,6 +1,6 @@
 # Welcome to Our Issue Tracker
 
-We appreciate your contributions to improving OptiLiveX and OptiSimX. This repository is dedicated to tracking bug reports and feature requests for both applications. Your feedback is invaluable in helping us enhance user experience and functionality.
+We appreciate your contributions to improving OptiTrade and OptiBot. This repository is dedicated to tracking bug reports and feature requests for both applications. Your feedback is invaluable in helping us enhance user experience and functionality.
 
 ## How to Report a Bug
 
