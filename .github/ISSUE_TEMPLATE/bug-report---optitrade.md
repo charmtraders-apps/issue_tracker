@@ -1,5 +1,5 @@
 ---
-name: Bug report - OptiLiveX
+name: Bug report - OptiTrade
 about: Create a report to help us improve
 title: ''
 labels: ''
